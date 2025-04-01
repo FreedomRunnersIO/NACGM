@@ -1,7 +1,7 @@
 {
   "tokenid": 0,
-  "image": "https://nftathleticcommunity.com/wp-content/GoldMember/0.png",
-  "external_url": "https://nftathleticcommunity.com",
+  "image": "https://raw.githubusercontent.com/FreedomRunnersIO/NACGM/main/0.png",
+  "external_url": "https://www.freedomrunners.io",
   "name": "NAC Gold Membership",
   "description": "The gold membership token is our highest level token you can receive in our community.  It is given priority to all other token holders in regards to limited utility or supply.  This token also stores the stats of the member that can be used for future benefits.",
   "attributes": [
